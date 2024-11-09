@@ -1,5 +1,3 @@
-from collections.abc import async_generator
-
 name = input("Enter your firstname and lastname: ")
 print(name + " is logged in")
 
